@@ -49,9 +49,9 @@ function buildNewsPortlet(){
 	desc = "";
 	desc = desc + "<ul>";
 	desc = desc + "<li> <p> Größter auf Baumpflege und Fällungen spezialisierter Betrieb  </p> </li>";
-	desc = desc + "<li> <p> Über 500 Aufträge im Jahr 2009 </p> </li>";
-	desc = desc + "<li> <p> Über 460 Aufträge im Jahr 2010 </p> </li>";
 	desc = desc + "<li> <p> Über 500 Aufträge im Jahr 2011 </p> </li>";
+	desc = desc + "<li> <p> Über 550 Aufträge im Jahr 2012 </p> </li>";
+	desc = desc + "<li> <p> Über 700 Aufträge im Jahr 2013 </p> </li>";
 	desc = desc + "<li> <p> Partner des zoologischen Gartens Augsburg </p> </li>";
 	desc = desc + "</ul>";
 	news.SetDesc(desc);

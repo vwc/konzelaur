@@ -27,7 +27,10 @@ var photosInitialize = {
 				    {url: "/files/photos/ausruestung/ausruestung_4.jpg", title: ""},
 				    {url: "/files/photos/ausruestung/ausruestung_5.jpg", title: ""},
 				    {url: "/files/photos/ausruestung/ausruestung_6.jpg", title: ""},
-				    {url: "/files/photos/ausruestung/ausruestung_7.jpg", title: ""}
+				    {url: "/files/photos/ausruestung/ausruestung_7.jpg", title: ""},
+					{url: "/files/photos/ausruestung/ausruestung_8.jpg", title: ""},
+					{url: "/files/photos/ausruestung/ausruestung_9.jpg", title: ""},
+					{url: "/files/photos/ausruestung/ausruestung_10.jpg", title: ""}
 				]
 		},
 	"photos_leistungen" : 
@@ -300,6 +303,23 @@ var photosInitialize = {
 				    {url: "/files/photos/faulstellen/bilder-faulstellen.jpg", title: ""},
 				    {url: "/files/photos/faulstellen/FIL-09606.jpg", title: ""},
 				    {url: "/files/photos/faulstellen/januar-08337.jpg", title: ""}
+				]
+		},
+		
+	"photos_sturmschaeden" : 
+		{
+			"display" : "vertical",
+			"items" :
+				[
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_1.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_2.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_3.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_4.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_5.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_6.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_7.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_8.jpg", title: ""},
+			    	{url: "/files/photos/sturmschaeden/sturmschaeden_9.jpg", title: ""}
 				]
 		},
 	"photos_kontakt" : 

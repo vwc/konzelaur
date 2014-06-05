@@ -101,6 +101,10 @@ var siteMap = [
 			{
 				"url" : "faulstellen.html",
 				"name" : "FAULSTELLEN"
+			},
+			{
+				"url" : "sturmschaeden.html",
+				"name" : "STURMSCHÄDEN"
 			}
 		]
 	}

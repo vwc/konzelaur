@@ -7,8 +7,8 @@ var thumbnailviewer={
 enableTitle: true, //Should "title" attribute of link be used as description?
 enableAnimation: true, //Enable fading animation?
 definefooter: '<div class="footerbar">CLOSE X</div>', //Define HTML for footer interface
-defineLoading: '<img src="/files/download/loading.gif" /> Loading Image...', //Define HTML for "loading" div
-
+//defineLoading: '<img src="/files/download/loading.gif" /> Loading Image...', //Define HTML for "loading" div
+defineLoading: '<img src="/konzelaur/files/download/loading.gif" /> Loading Image...', //Define HTML for "loading" div
 /////////////No need to edit beyond here/////////////////////////
 
 scrollbarwidth: 16,

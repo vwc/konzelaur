@@ -160,6 +160,11 @@ body {
 	background: url(images/center-sep.png) no-repeat;
 }
 
+.social {
+	float: right;
+	margin-right: 30px;
+	margin-top: 20px;
+}
 div.clear {
 	clear: both;
 	position: relative;

@@ -5,6 +5,11 @@
 	width: 50px;
 }
 .cell12 {
+	width:50px;
+	padding-left: 20px;
+	text-align: left;
+}
+.cell13 {
 	padding-left: 20px;
 	text-align: left;
 }
